@@ -240,4 +240,4 @@ This repository serves as the official landing page for vanBasco Karaoke Player.
 **Get the most recent version of vanBasco Karaoke Player today!**
 
 ---
-**Last updated:** 2026-09-15 18:01:14 UTC
+**Last updated:** 2026-09-15 21:57:52 UTC
